@@ -3,7 +3,7 @@
 Bem-vindo à Logaroo! Estamos animados para encontrar talentos excepcionais para as seguintes vagas em nossa equipe de desenvolvimento:
 
 1. [**Desenvolvedor Backend - API**](https://github.com/Logaroo/desafios/blob/main/Backend.md)<br>
-**Desafio:** Construa uma API RESTful uma API e banco de dados para a aplicação CMS (Content Management System). A aplicação é um simples repositório para gerenciar postagens com seus respectivos titulos, autores, conteúdos e tags.
+**Desafio:** Construa uma API RESTfull uma API e banco de dados para a aplicação CMS (Content Management System). A aplicação é um simples repositório para gerenciar postagens com seus respectivos titulos, autores, conteúdos e tags.
 
 2. [**Desenvolvedor Frontend - Montagem de Telas**](https://github.com/Logaroo/desafios/blob/main/Frontend-Designer.md)<br>
 **Desafio:** Sua tarefa será realizar a montagem do template de uma aplicação já existente e bastante utilizada atualmente para que possamos avaliar seus conhecimentos a respeito de **HTML5**, **CSS3**, **Javascript** e como utilizar estes conhecimentos para criar um template **React Native** e/ou **React JS** de um aplicativo estático (sem nenhuma integração com API's)
